@@ -1,0 +1,23 @@
+{
+  "name": "typescript-dio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc && node build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asoaresdev/typescript-dio.git"
+  },
+  "author": "Andréa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asoaresdev/typescript-dio/issues"
+  },
+  "homepage": "https://github.com/Asoaresdev/typescript-dio#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
